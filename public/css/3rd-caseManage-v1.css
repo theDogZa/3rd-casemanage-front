@@ -1,0 +1,80 @@
+html {
+
+  }
+
+body {
+
+}
+
+#page-header,
+.content-header {
+    background-color:#ef5350 !important;
+}
+
+#sidebar,
+.nav-main li.open > ul,
+.content-side-user {
+    background-color: rgba(77, 87, 124, 1) !important;
+}
+
+.nav-main,
+.nav-main a,
+.nav-main a > i  {
+    color: white !important;
+}
+
+.btn a{
+    color: white !important;
+}
+
+.badge-primary-dark {
+    color: #fff;
+    background-color: #343a40!important;
+}
+
+.badge-alt-warning {
+    color: #a87e00;
+    background-color: #fcf7e6 !important;
+    border: #a87e00 1px solid;
+}
+
+.popover,
+.popover-body{
+    max-width: 450px !important;
+    width: 450px !important;
+}
+/* .popover{
+border: 2px solid #26c6da !important;
+}
+
+.bs-popover-right .arrow::after, .bs-popover-auto[x-placement^="right"] .arrow::after
+{
+    border-right-color: #26c6da !important;
+} */
+
+.btn-primary-dark {
+    color: #fff;
+    background-color: #343a40!important;
+}
+
+.swal2-popup .swal2-styled.swal2-confirm {
+    border: 0;
+    border-radius: .25em;
+    background: initial;
+    background-color: #9ccc65;
+    border-color: #7eb73d;
+    color: #fff;
+    font-size: 1.0625em;
+}
+
+.spinner-border {
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    vertical-align: text-bottom;
+    border: .25em solid currentColor;
+    border-right-color: transparent;
+    border-radius: 50%;
+    -webkit-animation: spinner-border .75s linear infinite;
+    animation: spinner-border .75s linear infinite;
+}

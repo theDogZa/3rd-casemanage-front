@@ -1,0 +1,18 @@
+{
+    "1": {
+        "username":"user1",
+        "password":"$2y$10$Dn6j/pKZ6ogzT.oePgIVy.2GIehMnQ69YMjRgXSkxNoCgVP0PiC6S",
+        "dept_id":"1",
+        "user_type":"1",
+        "user_level":"1",
+        "id":1
+    },
+    "2": {
+        "username":"user2",
+        "password":"$2y$10$Dn6j/pKZ6ogzT.oePgIVy.2GIehMnQ69YMjRgXSkxNoCgVP0PiC6S",
+        "dept_id":"2",
+        "user_type":"2",
+        "user_level":"2",
+        "id":2
+    }
+}
